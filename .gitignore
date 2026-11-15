@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+data/
+uploads/
+.impeccable/
+.env
+.env.*
+!.env.example
+npm-debug.log*
